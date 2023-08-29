@@ -1,0 +1,21 @@
+{
+  "background_color": "#191015",
+  "display": "standalone",
+  "lang": "en",
+  "name": "HexWebViewDemo",
+  "short_name": "HexWebViewDemo",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.myapplication"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.myapplication",
+      "id": "com.myapplication"
+    }
+  ],
+  "prefer_related_applications": true
+}

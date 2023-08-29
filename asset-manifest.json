@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.js": "/static/js/main.67f824bc.js",
+    "static/js/181.076e58c2.js": "/static/js/181.076e58c2.js",
+    "static/media/HexHomeBigWall.png": "/static/media/HexHomeBigWall.bf9b2c9e025b57ddf644.png",
+    "static/media/SpaceGrotesk_300Light.ttf": "/static/media/SpaceGrotesk_300Light.5c62fc20689f43f24f44.ttf",
+    "static/media/SpaceGrotesk_500Medium.ttf": "/static/media/SpaceGrotesk_500Medium.dff8d806ce24db6ac483.ttf",
+    "static/media/SpaceGrotesk_400Regular.ttf": "/static/media/SpaceGrotesk_400Regular.67fa42510e26f5d4733d.ttf",
+    "static/media/SpaceGrotesk_600SemiBold.ttf": "/static/media/SpaceGrotesk_600SemiBold.b294a56ead28c272c9b1.ttf",
+    "static/media/SpaceGrotesk_700Bold.ttf": "/static/media/SpaceGrotesk_700Bold.96e001703fcc4898de0e.ttf",
+    "favicon.ico": "/favicon.ico",
+    "static/media/welcome-face.png": "/static/media/welcome-face.d70f1959b2f519f1640a.png",
+    "static/media/sad-face.png": "/static/media/sad-face.bfa8fafd722663020b44.png",
+    "static/media/logo.png": "/static/media/logo.b762449e76fe123a17a9.png",
+    "index.html": "/index.html",
+    "static/media/Logo.png": "/static/media/Logo.c48cf1e12190a50738b1.png",
+    "static/media/rnr-logo.png": "/static/media/rnr-logo.c7702193604eae10fe4f.png",
+    "static/media/rnn-logo.png": "/static/media/rnn-logo.9e69e53e4d553e8eda15.png",
+    "static/media/cr-logo.png": "/static/media/cr-logo.66df1e31e189d6a94ea5.png",
+    "static/media/rnl-logo.png": "/static/media/rnl-logo.271527ae5cb1579b1b3d.png",
+    "static/media/podcast.png": "/static/media/podcast.6ad7fdd65dcbf0d5be22.png",
+    "static/media/information.png": "/static/media/information.cb0ab2eefd2406b7f260.png",
+    "static/media/success.png": "/static/media/success.fa7747f215bd5b67f84a.png",
+    "static/media/settings.png": "/static/media/settings.0c32e837861f8d939dbf.png",
+    "favicon-32.png": "/favicon-32.png",
+    "static/media/ladybug.png": "/static/media/ladybug.d819e1d482da3bf7386d.png",
+    "static/media/warning.png": "/static/media/warning.94c08701ccd8d909a5e5.png",
+    "static/media/hidden.png": "/static/media/hidden.3c29cf1ffec84f3c6463.png",
+    "static/media/error.png": "/static/media/error.871ca892f38afb0ecb15.png",
+    "manifest.json": "/manifest.json",
+    "favicon-16.png": "/favicon-16.png",
+    "serve.json": "/serve.json",
+    "main.67f824bc.js.map": "/static/js/main.67f824bc.js.map",
+    "181.076e58c2.js.map": "/static/js/181.076e58c2.js.map"
+  },
+  "entrypoints": [
+    "static/js/181.076e58c2.js",
+    "static/js/main.67f824bc.js"
+  ]
+}
